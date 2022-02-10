@@ -40,8 +40,8 @@ body{
     font-size:1rem;
     font-weight:400;
     line-height:1.5;
-    color:#212529;
-    background-color:#fff;
+    color:#fff;
+    background-color:#3d3d3d;
     -webkit-text-size-adjust:100%;
     -webkit-tap-highlight-color:transparent
 }
